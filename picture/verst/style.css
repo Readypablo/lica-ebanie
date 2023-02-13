@@ -1,0 +1,119 @@
+.absol2 {
+    position: absolute;
+    left: 450px;
+    top: -40px;
+    z-index: 1000;
+}
+
+.center {
+    margin-left: 30%;
+}
+
+.absol {
+    position: absolute;
+    left: 450px;
+    top: -40px;
+    z-index: 1;
+}
+
+
+/* ///////////////////////////// */
+
+.previous {
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    top: 200px;
+    left: 400px;
+    font-size: 20px;
+}
+
+.next {
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    top: 200px;
+    left: 1100px;
+    font-size: 20px;
+}
+
+.previous1 {
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    top: 250px;
+    left: 400px;
+    font-size: 20px;
+}
+
+.next1 {
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    top: 250px;
+    left: 1100px;
+    font-size: 20px;
+}
+
+.previous2 {
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    top: 300px;
+    left: 400px;
+    font-size: 20px;
+}
+
+.next2 {
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    top: 300px;
+    left: 1100px;
+    font-size: 20px;
+}
+
+
+/* ///////////////////////////////////////////////// */
+
+
+/* 
+.slider .item2 img {
+    object-fit: cover;
+}
+
+.slider .item2 {
+    animation-name: fade2;
+    animation-duration: 1.5s;
+}
+
+.slider .previous1,
+.slider .next1 {
+    cursor: pointer;
+    position: absolute;
+    top: 500px;
+    padding: 16px;
+    color: black;
+    font-size: 30px;
+}
+
+.slider .next1 {
+    right: 400px;
+    border-radius: 3px 0 0 3px;
+}
+
+@keyframes fade2 {
+    /* Устанавливаем и изменяем степень прозрачности: */
+
+
+/* 
+from {
+    opacity: 0.4
+}
+
+to {
+    opacity: 1
+}
+
+
+} */
